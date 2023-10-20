@@ -1,0 +1,63 @@
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\CursoEntityFrameworkCore - Alura.exe
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\CursoEntityFrameworkCore - Alura.deps.json
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\CursoEntityFrameworkCore - Alura.runtimeconfig.json
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\CursoEntityFrameworkCore - Alura.dll
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\CursoEntityFrameworkCore - Alura.pdb
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\obj\Debug\net6.0\CursoEntityFrameworkCore - Alura.csproj.AssemblyReference.cache
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\obj\Debug\net6.0\CursoEntityFrameworkCore - Alura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\obj\Debug\net6.0\CursoEntityFrameworkCore - Alura.AssemblyInfoInputs.cache
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\obj\Debug\net6.0\CursoEntityFrameworkCore - Alura.AssemblyInfo.cs
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\obj\Debug\net6.0\CursoEntityFrameworkCore - Alura.csproj.CoreCompileInputs.cache
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\obj\Debug\net6.0\CursoEntityFrameworkCore - Alura.csproj.CopyComplete
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\obj\Debug\net6.0\CursoEntityFrameworkCore - Alura.dll
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\obj\Debug\net6.0\refint\CursoEntityFrameworkCore - Alura.dll
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\obj\Debug\net6.0\CursoEntityFrameworkCore - Alura.pdb
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\obj\Debug\net6.0\CursoEntityFrameworkCore - Alura.genruntimeconfig.cache
+C:\Users\unima\OneDrive\Documentos\C# POO\CursoEntityFrameworkCore - Alura\CursoEntityFrameworkCore - Alura\obj\Debug\net6.0\ref\CursoEntityFrameworkCore - Alura.dll
